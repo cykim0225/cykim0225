@@ -4,4 +4,4 @@
 I love talking about coding and new technologies\
 Feel free to connect or send me a meesage!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Chris's Github Status](https://github-readme-stats.vercel.app/api?username=cykim0225&show_icons=true&theme=white)
